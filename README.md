@@ -21,7 +21,7 @@ If you don't want to change any settings, `setup()` doesn't need to be called. T
 
 ```lua
 {
-    "https://gitlab.com/bartekjaszczak/luma-nvim",
+    "bartekjaszczak/luma-nvim",
 
     priority = 1000,
     config = function()
